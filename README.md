@@ -1,1 +1,2 @@
-# mckinsey-sales-hackathon-data
+Movie recommender using graphlab create
+
